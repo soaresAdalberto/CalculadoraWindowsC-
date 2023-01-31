@@ -1,0 +1,10 @@
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\ESTUDOS UNIMED\.NET\C#\Calculadora - 30.12\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\ESTUDOS UNIMED\.NET\C#\Calculadora - 30.12\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\ESTUDOS UNIMED\.NET\C#\Calculadora - 30.12\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\ESTUDOS UNIMED\.NET\C#\Calculadora - 30.12\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\ESTUDOS UNIMED\.NET\C#\Calculadora - 30.12\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\ESTUDOS UNIMED\.NET\C#\Calculadora - 30.12\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\ESTUDOS UNIMED\.NET\C#\Calculadora - 30.12\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\ESTUDOS UNIMED\.NET\C#\Calculadora - 30.12\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\ESTUDOS UNIMED\.NET\C#\Calculadora - 30.12\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\adalberto.soares\OneDrive - Unimed Divinópolis\Área de Trabalho\ESTUDOS UNIMED\.NET\C#\Calculadora - 30.12\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
